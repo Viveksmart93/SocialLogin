@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "799161248958",
+    "firebase_url": "https://digital-wallet-3446b.firebaseio.com",
+    "project_id": "digital-wallet-3446b",
+    "storage_bucket": "digital-wallet-3446b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799161248958:android:999a808ea6cc2cce5c42ef",
+        "android_client_info": {
+          "package_name": "com.digitalwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799161248958-vro7ftec4sq74krnut0gfi4664si4kqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalwallet",
+            "certificate_hash": "5b566004ae4b803324aef2eb9fabaabf339ed691"
+          }
+        },
+        {
+          "client_id": "799161248958-4o5kflud31c9e7hs4konq3qlroanb2e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWArrqStySy-P_jnQulSHLgDvLo9SBmiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799161248958-4o5kflud31c9e7hs4konq3qlroanb2e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
