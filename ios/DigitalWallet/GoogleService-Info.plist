@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>799161248958-u4lsn1fg60cuk73kdtd6na3u1eevusud.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.799161248958-u4lsn1fg60cuk73kdtd6na3u1eevusud</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>799161248958-vro7ftec4sq74krnut0gfi4664si4kqb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAbDs8_0ezHZ-8_IC4qG9GZ351Dg5vcju8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>799161248958</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.digitalwallet</string>
+	<key>PROJECT_ID</key>
+	<string>digital-wallet-3446b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>digital-wallet-3446b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:799161248958:ios:86bfb424f6a9c5275c42ef</string>
+	<key>DATABASE_URL</key>
+	<string>https://digital-wallet-3446b.firebaseio.com</string>
+</dict>
+</plist>
